@@ -1,0 +1,16 @@
+# ninja log v5
+8	435	7197054484087173	build.ninja	e76b4f1fec628df6
+751	915	7198722973428071	untitled3.exe	9cc7daf5305dc2f
+3	751	7198722971860490	CMakeFiles/untitled3.dir/set2p1.cpp.obj	a62cdafe6fb08fda
+5	786	7198724220115095	CMakeFiles/untitled3.dir/set2p1.cpp.obj	a62cdafe6fb08fda
+787	957	7198724221776154	untitled3.exe	9cc7daf5305dc2f
+3	956	7198781217670557	CMakeFiles/untitled3.dir/set2p1.cpp.obj	a62cdafe6fb08fda
+956	1159	7198781219690752	untitled3.exe	9cc7daf5305dc2f
+2	548	7198781550704890	CMakeFiles/untitled3.dir/set2p1.cpp.obj	a62cdafe6fb08fda
+548	652	7198781551734501	untitled3.exe	9cc7daf5305dc2f
+3	538	7198782324563073	CMakeFiles/untitled3.dir/set2p1.cpp.obj	a62cdafe6fb08fda
+540	656	7198782325727840	untitled3.exe	9cc7daf5305dc2f
+2	524	7198794058954066	CMakeFiles/untitled3.dir/set2p1.cpp.obj	a62cdafe6fb08fda
+524	634	7198794060040458	untitled3.exe	9cc7daf5305dc2f
+3	576	7198794264858309	CMakeFiles/untitled3.dir/set2p1.cpp.obj	a62cdafe6fb08fda
+576	684	7198794265916610	untitled3.exe	9cc7daf5305dc2f

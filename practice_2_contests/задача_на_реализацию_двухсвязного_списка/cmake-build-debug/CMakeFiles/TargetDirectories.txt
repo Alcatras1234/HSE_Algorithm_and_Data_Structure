@@ -1,0 +1,3 @@
+C:/HSE/Alogoritms and data structures/SET2practice/задача_на_реализацию_двухсвязного_списка/cmake-build-debug/CMakeFiles/____.dir
+C:/HSE/Alogoritms and data structures/SET2practice/задача_на_реализацию_двухсвязного_списка/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/HSE/Alogoritms and data structures/SET2practice/задача_на_реализацию_двухсвязного_списка/cmake-build-debug/CMakeFiles/rebuild_cache.dir
