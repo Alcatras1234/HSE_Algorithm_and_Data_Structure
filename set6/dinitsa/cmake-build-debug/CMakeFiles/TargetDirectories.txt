@@ -1,0 +1,3 @@
+C:/HSE/Second COurse HSe/Alogoritms and data structures/set6/dinitsa/cmake-build-debug/CMakeFiles/dinitsa.dir
+C:/HSE/Second COurse HSe/Alogoritms and data structures/set6/dinitsa/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/HSE/Second COurse HSe/Alogoritms and data structures/set6/dinitsa/cmake-build-debug/CMakeFiles/rebuild_cache.dir

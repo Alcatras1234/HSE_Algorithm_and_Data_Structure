@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "A2_Modify_Deicstra",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "A2_Modify_Deicstra::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A2_Modify_Deicstra-Debug-604b9cc9f8d0b19a30d0.json",
+					"name" : "A2_Modify_Deicstra",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/HSE/Second COurse HSe/Alogoritms and data structures/set6/A2 Modify Deicstra/cmake-build-debug",
+		"source" : "C:/HSE/Second COurse HSe/Alogoritms and data structures/set6/A2 Modify Deicstra"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

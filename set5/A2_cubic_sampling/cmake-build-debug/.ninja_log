@@ -1,0 +1,27 @@
+# ninja log v5
+2	466	7298050902841873	CMakeFiles/A2_cubic_sampling.dir/main.cpp.obj	fcc6c2d04b8e2962
+466	558	7298050903725075	A2_cubic_sampling.exe	8ad7e3938cd105d4
+2	433	7298051647946796	CMakeFiles/A2_cubic_sampling.dir/second.cpp.obj	be810a19e78c8e26
+8	562	7298053960264454	CMakeFiles/A2_cubic_sampling.dir/second.cpp.obj	be810a19e78c8e26
+3	612	7298053960746175	CMakeFiles/A2_cubic_sampling.dir/main.cpp.obj	fcc6c2d04b8e2962
+612	706	7298053961679533	A2_cubic_sampling.exe	cbb8d6efbf1a1830
+2	516	7298054817162592	CMakeFiles/A2_cubic_sampling.dir/main.cpp.obj	fcc6c2d04b8e2962
+517	602	7298054817994207	A2_cubic_sampling.exe	cbb8d6efbf1a1830
+2	445	7298055055781121	CMakeFiles/A2_cubic_sampling.dir/main.cpp.obj	fcc6c2d04b8e2962
+445	531	7298055056624504	A2_cubic_sampling.exe	cbb8d6efbf1a1830
+2	528	7298055558354670	CMakeFiles/A2_cubic_sampling.dir/main.cpp.obj	fcc6c2d04b8e2962
+528	644	7298055559482602	A2_cubic_sampling.exe	cbb8d6efbf1a1830
+2	502	7298055771455468	CMakeFiles/A2_cubic_sampling.dir/main.cpp.obj	fcc6c2d04b8e2962
+502	590	7298055772302514	A2_cubic_sampling.exe	cbb8d6efbf1a1830
+2	531	7298055990505454	CMakeFiles/A2_cubic_sampling.dir/main.cpp.obj	fcc6c2d04b8e2962
+532	618	7298055991359176	A2_cubic_sampling.exe	cbb8d6efbf1a1830
+3	588	7298056163065448	CMakeFiles/A2_cubic_sampling.dir/main.cpp.obj	fcc6c2d04b8e2962
+588	683	7298056163986525	A2_cubic_sampling.exe	cbb8d6efbf1a1830
+2	465	7298067439633611	CMakeFiles/A2_cubic_sampling.dir/main.cpp.obj	fcc6c2d04b8e2962
+466	571	7298067440664074	A2_cubic_sampling.exe	cbb8d6efbf1a1830
+2	547	7298068447317407	CMakeFiles/A2_cubic_sampling.dir/main.cpp.obj	fcc6c2d04b8e2962
+548	648	7298068448284366	A2_cubic_sampling.exe	cbb8d6efbf1a1830
+2	461	7298068950791960	CMakeFiles/A2_cubic_sampling.dir/main.cpp.obj	fcc6c2d04b8e2962
+462	549	7298068951641635	A2_cubic_sampling.exe	cbb8d6efbf1a1830
+2	544	7298069386275007	CMakeFiles/A2_cubic_sampling.dir/main.cpp.obj	fcc6c2d04b8e2962
+544	663	7298069387515387	A2_cubic_sampling.exe	cbb8d6efbf1a1830

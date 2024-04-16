@@ -1,0 +1,3 @@
+C:/HSE/Second COurse HSe/Alogoritms and data structures/set5/A2_cubic_sampling/cmake-build-debug/CMakeFiles/A2_cubic_sampling.dir
+C:/HSE/Second COurse HSe/Alogoritms and data structures/set5/A2_cubic_sampling/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/HSE/Second COurse HSe/Alogoritms and data structures/set5/A2_cubic_sampling/cmake-build-debug/CMakeFiles/rebuild_cache.dir

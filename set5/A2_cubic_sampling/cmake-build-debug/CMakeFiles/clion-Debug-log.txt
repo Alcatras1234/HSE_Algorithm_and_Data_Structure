@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2023.1.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.1.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\HSE\Second COurse HSe\Alogoritms and data structures\set5\A2_cubic_sampling" -B "C:\HSE\Second COurse HSe\Alogoritms and data structures\set5\A2_cubic_sampling\cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/HSE/Second COurse HSe/Alogoritms and data structures/set5/A2_cubic_sampling/cmake-build-debug

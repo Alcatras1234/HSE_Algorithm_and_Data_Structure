@@ -1,0 +1,3 @@
+C:/HSE/Second COurse HSe/Alogoritms and data structures/set6/Electrosnabzhenie_school/cmake-build-debug/CMakeFiles/Electrosnabzhenie_school.dir
+C:/HSE/Second COurse HSe/Alogoritms and data structures/set6/Electrosnabzhenie_school/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/HSE/Second COurse HSe/Alogoritms and data structures/set6/Electrosnabzhenie_school/cmake-build-debug/CMakeFiles/rebuild_cache.dir
